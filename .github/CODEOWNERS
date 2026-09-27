@@ -1,0 +1,3 @@
+# .github/CODEOWNERS
+# Qualquer alteração no repositório exige aprovação do professor
+*       @SEU-USUARIO-GITHUB
